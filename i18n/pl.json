@@ -1,0 +1,5 @@
+{
+  "wrong_login_or_pass": "Błędny email lub hasło",
+  "email_not_exists": "Użytkownik z podanym adresem email nie istnieje",
+  "undefined_error": "Nieznany błąd"
+}

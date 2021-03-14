@@ -1,0 +1,5 @@
+{
+  "wrong_login_or_pass": "Wrong email or password",
+  "email_not_exists": "User with this email doesn't exist",
+  "undefined_error": "An undefined Error happened"
+}

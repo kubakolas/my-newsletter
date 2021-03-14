@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>927152580191-0nrln068d0j2je8e2jsqns9kmiho2deu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.927152580191-0nrln068d0j2je8e2jsqns9kmiho2deu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCBmgvRDwDQSuLhOJ86acBM2a9tV5uobNI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>927152580191</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kubakolas.mynewsletter</string>
+	<key>PROJECT_ID</key>
+	<string>mynewsletters-5d3c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mynewsletters-5d3c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:927152580191:ios:df8962ed7d7c33f703ddea</string>
+	<key>DATABASE_URL</key>
+	<string>https://mynewsletters-5d3c5.firebaseio.com</string>
+</dict>
+</plist>

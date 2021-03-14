@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "927152580191",
+    "firebase_url": "https://mynewsletters-5d3c5.firebaseio.com",
+    "project_id": "mynewsletters-5d3c5",
+    "storage_bucket": "mynewsletters-5d3c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927152580191:android:97f85c3b08e89b1003ddea",
+        "android_client_info": {
+          "package_name": "com.kubakolas.mynewsletter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927152580191-ad4ciglhi4j8unugf4k138k0fisodvm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmO8V-qaAOHbLH3JPBBL1etpVLSsqsvw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927152580191-ad4ciglhi4j8unugf4k138k0fisodvm5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927152580191-0nrln068d0j2je8e2jsqns9kmiho2deu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kubakolas.mynewsletter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
